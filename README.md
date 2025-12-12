@@ -3,7 +3,7 @@ A modern portfolio website showcasing my work in Web Development, Python, Machin
 Built using HTML, CSS, and JavaScript with glassmorphism UI, 3D animations, and responsive design.
 
 ## Live Site
-https://YOUR_USERNAME.github.io/YOUR_REPO/
+https://harshitasurana.github.io/PortfoioWebsite/
 
 ## Features
 - Modern UI + animations  
